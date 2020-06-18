@@ -11,8 +11,8 @@ My first attempts and steps in this universe...</p>
 
 --
 
-<b>June 18, 2020 - African-American History</b>
+<big><b>June 18, 2020 - African-American History</b></big>
 
 <img src="https://i.ibb.co/Y06whCW/Rplot-Slavery-copia.png"></img>
 
-<a href ="www.google.com"> Code </a>
+<a href ="https://github.com/ailenventaja/TidyTuesday/blob/master/202010618%20African-American%20History/Code.R"> Code </a>
