@@ -7,11 +7,11 @@
 <br>
 My first attempts and steps in this universe...</p>
 --
-<p>Mis primeros intentos y pasos en este universo...
-</p>
+<p>Mis primeros intentos y pasos en este universo...</p>
+
 --
 
-June 18, 2020 - African-American History
+<b>June 18, 2020 - African-American History</b>
 
 <img src="https://i.ibb.co/Y06whCW/Rplot-Slavery-copia.png"></img>
 
