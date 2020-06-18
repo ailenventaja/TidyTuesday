@@ -5,7 +5,7 @@
 
 <p>
 <br>
-My first and surely failed attempts to get into this universe...</p>
+My first attempts and steps in this universe...</p>
 --
-<p>Mis primeros y seguramente fallidos intentos por acercarme a este universo...
+<p>Mis primeros intentos y pasos en este universo...
 </p>
