@@ -3,9 +3,9 @@
 
 <text>(A weekly social data project in R from the R4DS Online Learning Community)
 
+<p>
 <br>
-My first and surely failed attempts to get into this universe...
-
+My first and surely failed attempts to get into this universe...</p>>
 --
-
-Mis primeros y seguramente fallidos intentos por acercarme a este universo...</text>
+<p>Mis primeros y seguramente fallidos intentos por acercarme a este universo...</text>
+</p>
