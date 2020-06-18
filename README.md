@@ -1,5 +1,5 @@
-<h1># TidyTuesday<h1>
-<h2> 📊 #TidyTuesday codes and plots (by a newbie) <h2>
+# TidyTuesday
+<h2> 📊 #TidyTuesday codes and plots (by a newbie) </h2>
 
 (A weekly social data project in R from the R4DS Online Learning Community)
 
